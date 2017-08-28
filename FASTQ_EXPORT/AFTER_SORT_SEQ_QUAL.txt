@@ -1,1 +1,0 @@
-ArangoDBClient\ServerException: 1203 unknown collection 'hsc3380_SRR490124_1'
