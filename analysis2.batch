@@ -1,0 +1,1 @@
+make.contigs(file=MiSeqSOP/stability.files, processors=8)
