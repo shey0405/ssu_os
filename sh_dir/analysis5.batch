@@ -1,0 +1,2 @@
+dist.seqs(fasta=MiSeqSOP/stability.trim.contigs.good.unique.good.filter.unique.precluster.pick.pick.pick.fasta, output=lt, processors=8)
+clearcut(phylip=MiSeqSOP/stability.trim.contigs.good.unique.good.filter.unique.precluster.pick.pick.pick.phylip.dist)
